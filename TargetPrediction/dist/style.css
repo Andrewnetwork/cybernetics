@@ -1,0 +1,14 @@
+#canvas{
+    border: solid black;
+    box-shadow: 10px 10px 5px grey;
+    cursor: none;
+    position: relative;
+}
+#canvasContainer{
+    text-align: center;
+}
+#objectView{
+    float: left;
+    border:solid medium black;
+    background-color: dimgrey;
+}
